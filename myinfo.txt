@@ -1,1 +1,2 @@
 Full name: Kien Nguyen
+Department: Computer Science
